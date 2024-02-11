@@ -55,7 +55,8 @@
 	Find a [Haiku](https://www.poetryfoundation.org/learn/glossary-terms/haiku-or-hokku) or other very short poem, or a song lyric refrain. Record an .aiff audio file of your computer "saying" the poem with the CLI
 		- Hints:
 			- You'll need to use pwd, ls, and cd to make sure you create the .aiff file in a place you can easily find
-			- You'll need to use -o
+			- You'll need to use -o:
+				`say "hi" -o hi.aiff`
 
 ***More advanced commands***
 
@@ -75,6 +76,8 @@
 - [GNU Bash reference](http://www.gnu.org/software/bash/manual/bashref.html)
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
+
+**MAKE SURE your Macintosh HD is visible in your "Finder" Preferences**
 
 **Integrated Development Environments (IDE)**
 - Most commonly used for interpreted languages
